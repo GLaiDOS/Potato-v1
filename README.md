@@ -1,8 +1,6 @@
 # Potato-v1 :potato:
 AI Glossary Version : Potato-v1
 
----
-
 ### Writing Rule
 
 Glossary를 작성하는 rule은 다음과 같다.
